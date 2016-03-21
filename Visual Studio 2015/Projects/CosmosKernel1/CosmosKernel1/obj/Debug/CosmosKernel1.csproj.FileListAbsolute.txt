@@ -1,0 +1,15 @@
+c:\users\jonathan\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\CosmosKernel1.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\CosmosKernel1.pdb
+c:\users\jonathan\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Debug.Kernel.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.System.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Common.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.HAL.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Core.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.System.pdb
+c:\users\jonathan\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Debug.Kernel.pdb
+c:\users\jonathan\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Common.pdb
+c:\users\jonathan\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.HAL.pdb
+c:\users\jonathan\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Core.pdb
+c:\users\jonathan\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\obj\Debug\CosmosKernel1.csprojResolveAssemblyReference.cache
+c:\users\jonathan\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\obj\Debug\CosmosKernel1.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\obj\Debug\CosmosKernel1.pdb
